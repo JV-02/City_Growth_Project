@@ -24,7 +24,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Predictive modeling for real-world planning problems
 
 ## Files
-- city_growth_analysis.ipynb
+- Machine Learning Project on City Growth Data.ipynb
 
 ## How to Run
 Open the notebook in Jupyter/Colab and execute cells sequentially.
